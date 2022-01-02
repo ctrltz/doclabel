@@ -1,0 +1,20 @@
+{
+  "name": "doclabel",
+  "version": "0.0.1",
+  "description": "An Electron application for labeling and arranging local files",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/electron/electron-quick-start",
+  "keywords": [
+    "Electron",
+    "document",
+    "labeling"
+  ],
+  "author": "Nicholas Kapralov",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^16.0.5"
+  }
+}
